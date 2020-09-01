@@ -1,0 +1,8 @@
+== yj
+
+link:
+
+.yjのインストール
+----
+$ make install-yj
+----
